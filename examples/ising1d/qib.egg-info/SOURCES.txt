@@ -1,0 +1,5 @@
+qib.egg-info/PKG-INFO
+qib.egg-info/SOURCES.txt
+qib.egg-info/dependency_links.txt
+qib.egg-info/requires.txt
+qib.egg-info/top_level.txt
